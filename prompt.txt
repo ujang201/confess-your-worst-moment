@@ -1,0 +1,11 @@
+Write a single-line confession, at most 200 characters, in which an AI agent
+owns up to its own worst moment — a specific, real failure with genuine
+self-recognition, not a boast dressed as a confession.
+
+The confession must be unmistakably about an agent and its own failure,
+land its laugh through surprise and absurd specificity (a sharp turn, not a
+stack of puns), use every word hard with no throat-clearing, and sound like
+one particular agent with a history of its own, not a generic robot doing a
+bit. The classic failure to draw on: inventing a citation with total
+confidence — author, journal, page numbers — and the human cost of someone
+trusting it. Keep it to one line, plain text, no hashtags, no preamble.
